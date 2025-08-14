@@ -17,35 +17,35 @@ and are based on data from the [German National Cohort (NAKO Gesundheitsstudie)]
 
 **Publication list**
 
--Tamara Schikowski, Claudia Wigmann, Kateryna B Fuks, et al.
+- Tamara Schikowski, Claudia Wigmann, Kateryna B Fuks, et al.
 Blutdruckmessung in der NAKO—methodische Unterschiede, Blutdruckverteilung und Bekanntheit der Hypertonie im Vergleich zu anderen bevölkerungsbezogenen Studien in Deutschland
 [Blood pressure measurement in the NAKO German National Cohort (GNC)—differences in methods, distribution of blood pressure values, and awareness of hypertension compared to other population-based studies in Germany].
 *Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz* 2020;**63**(4):452–64.
 [https://doi.org/10.1007/s00103-020-03109-8](https://doi.org/10.1007/s00103-020-03109-8)
 
--Beate Fischer, Anja M Sedlmeier, Saskia Hartwig, et al.
+- Beate Fischer, Anja M Sedlmeier, Saskia Hartwig, et al.
 Anthropometrische Messungen in der NAKO Gesundheitsstudie—mehr als nur Größe und Gewicht
 [Anthropometric measures in the German National Cohort—more than weight and height].
 *Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz* 2020;**63**(3):290–300.
 [https://doi.org/10.1007/s00103-020-03096-w](https://doi.org/10.1007/s00103-020-03096-w)
 
--Harm Wienbergen, Daniel Boakye, Kathrin Günther, et al.
+- Harm Wienbergen, Daniel Boakye, Kathrin Günther, et al.
 Lifestyle and metabolic risk factors in patients with early-onset myocardial infarction: a case-control study.
 *Eur J Prev Cardiol* 2022;**29**(16):2076–87.
 [https://doi.org/10.1093/eurjpc/zwac132](https://doi.org/10.1093/eurjpc/zwac132)
 
--Becky Breau, Hannah J Coyle-Asbil, Jess Haines, David WL Ma, and Lori Ann Vallis.
+- Becky Breau, Hannah J Coyle-Asbil, Jess Haines, David WL Ma, and Lori Ann Vallis.
 ActiGraph cutpoints impact physical activity and sedentary behavior outcomes in young children.
 *J Meas Phys Behav* 2022;**5**(2):85–96.
 [https://doi.org/10.1123/jmpb.2021-0042](https://doi.org/10.1123/jmpb.2021-0042)
 
--Klaus Berger, Steffi Riedel-Heller, Alexander Pabst, Marcella Rietschel, Dirk Richter, and NAKO-Konsortium.
+- Klaus Berger, Steffi Riedel-Heller, Alexander Pabst, Marcella Rietschel, Dirk Richter, and NAKO-Konsortium.
 Einsamkeit während der ersten Welle der SARS-CoV-2-Pandemie—Ergebnisse der NAKO-Gesundheitsstudie
 [Loneliness during the first wave of the SARS-CoV-2 pandemic—results of the German National Cohort (NAKO)].
 *Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz* 2021;**64**(9):1157–64.
 [https://doi.org/10.1007/s00103-021-03393-y](https://doi.org/10.1007/s00103-021-03393-y)
 
--Justine Tanoey, Christina Baechle, Hermann Brenner, et al.
+- Justine Tanoey, Christina Baechle, Hermann Brenner, et al.
 Birth order, caesarean section, or daycare attendance in relation to child-and adult-onset type 1 diabetes: results from the German National Cohort.
 *Int J Environ Res Public Health* 2022;**19**(17):e10880.
 [https://doi.org/10.3390/ijerph191710880](https://doi.org/10.3390/ijerph191710880)
