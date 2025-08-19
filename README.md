@@ -13,7 +13,7 @@ Additionally, the impact of dimensionality and variable complexity on synthesis 
 ## Replicated original publications
 
 The replicated original publications cover blood pressure, anthropometry, myocardial infarction, accelerometry, loneliness, and diabetes,
-and are based on data from the [German National Cohort (NAKO Gesundheitsstudie)](https://nako.de) and the [Guelph Family Health Study (GFHS)](https://guelphfamilyhealthstudy.com/).
+and are based on data from the [German National Cohort (NAKO Gesundheitsstudie)](https://nako.de), the [Bremen STEMI Registry U45 Study (BSR-U45)](https://bremer-herzen.de/causes/u45-studie/), and the [Guelph Family Health Study (GFHS)](https://guelphfamilyhealthstudy.com/).
 
 **Publication list**
 
@@ -58,6 +58,8 @@ None of the data used in this work are openly available. Hence, this repository 
 The NAKO data are not openly available due to data protection measures.
 However, scientists can apply for data access following the official usage regulations and upon formal request to the NAKO use and access committee (https://transfer.nako.de).
 
+Participant data from the Bremen STEMI Registry U45 Study (BSR-U45) are not publicly available.
+
 Due to University of Guelph Research Ethics Board restrictions and participant confidentiality, no GFHS participant data are publicly available.
 The GFHS welcomes outside collaborators. Interested investigators can contact GFHS investigators to explore this option,
 which preserves participant confidentiality and meets the requirements of the University of Guelph Research Ethics Board, to protect human subjects.  
@@ -92,11 +94,11 @@ which preserves participant confidentiality and meets the requirements of the Un
 - `ggh4x`
 - `xtable`
 
-**For Parallel processing:**
+**For parallel processing:**
 
 - `doParallel`
 - `foreach`
 
-**For Data processing and console output:**
+**For data processing and console output:**
 
 - `data.table`
