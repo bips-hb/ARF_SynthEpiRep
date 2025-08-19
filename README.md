@@ -1,6 +1,6 @@
 # Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI
 
-This repository contains the code which produced the results of the manuscript *"Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI"*.
+This repository contains the code which produced the results of the manuscript "Can synthetic data reproduce real-world findings in epidemiology? A replication study using tree-based generative AI" by Kapar et al. (2025).
 
 
 ## Summary
